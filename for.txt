@@ -1,0 +1,3 @@
+lst=[25,38,47,90]
+for i in lst:
+    print(i,end=" ")

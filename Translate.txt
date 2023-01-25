@@ -1,0 +1,5 @@
+#translate
+from translate import Translator
+translator=Translator(to_lang="telugu")
+translation=translator.translate("priya")
+print(translation)

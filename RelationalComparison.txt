@@ -1,0 +1,9 @@
+a=14
+b=15
+print(a>b)
+print(a<b)
+print(a!=b)
+print(a==b)
+print(a>=b) #if left operand is less than or equal and returns true
+print(a<=b)#if right operand is less than or equal and returns true
+

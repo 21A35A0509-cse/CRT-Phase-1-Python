@@ -1,0 +1,3 @@
+#terinary operator if true part else false part
+a=int(input("enter value : "))
+print("even") if a%2==0 else print("odd")

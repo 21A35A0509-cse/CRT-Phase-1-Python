@@ -1,0 +1,10 @@
+l=[27,33,24,15]
+k=33
+temp =False
+for i in range(len(l)):
+    if k==l[i]:
+        print(i)
+        temp=True
+        break
+if temp==False:
+    print("ghjvf")

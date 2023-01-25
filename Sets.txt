@@ -1,0 +1,12 @@
+# sets operations
+s1={1,2,3,4}
+s2={3,4,5,6}
+res1=s1.intersection(s2)
+print(res1)
+res2=s1.union(s2)
+print(res2)
+res3=s1.difference(s2) #removes common obj in the s1 set
+print(res3)
+res4=s2.difference_update(s1)
+print(s1)
+
