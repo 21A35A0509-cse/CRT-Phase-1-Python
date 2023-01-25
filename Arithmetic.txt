@@ -1,0 +1,15 @@
+a=14
+b=15
+c=a+b
+print(c)
+c=a-b
+print(c)
+c=a*b
+print(c)
+c=a/b #float div
+print(c)
+c=a//b #int div
+print(c)
+c=a%b
+print(c)
+

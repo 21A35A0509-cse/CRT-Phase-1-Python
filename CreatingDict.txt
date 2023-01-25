@@ -1,0 +1,6 @@
+d={}
+d.update({507:'ramya'})
+d.update({509:'priya'})
+d.update({508:'pav'})
+print(d)
+print (d.get(509))
